@@ -1,0 +1,27 @@
+Q1: Spark RDD vs DataFrame vs Dataset?
+Link: https://sparkbyexamples.com/spark/spark-rdd-vs-dataframe-vs-dataset/
+
+Q2: What is Lineage Graph?
+Link: https://sparkbyexamples.com/spark/what-is-lineage-graph-in-spark/
+
+Q3: flatMap vs map in PySpark?
+Link: https://www.linkedin.com/pulse/map-vs-flatmap-apache-spark-sunil-rastogi-cg7af/
+
+Q4. DAG?
+
+Q5. Lazy Evaluation?
+Link: https://www.projectpro.io/recipes/explain-spark-lazy-evaluation-detail
+
+Q6. Types of transformations?
+    Narrow
+    Wide
+Link: https://data-flair.training/blogs/spark-rdd-operations-transformations-actions/
+      https://tsaiprabhanj.medium.com/pyspark-30-rdd-transformations-d77bfb2e619a
+      https://www.youtube.com/watch?v=LDdA1RW_6xo
+      https://www.youtube.com/watch?v=e92h5YniKkA
+
+Q7. Job, Stage and Task?
+
+Q8. Action?
+
+Q9. Apache Spark - Loading data from relational databases?
