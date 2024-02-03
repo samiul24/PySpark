@@ -25,3 +25,9 @@ Q7. Job, Stage and Task?
 Q8. Action?
 
 Q9. Apache Spark - Loading data from relational databases?
+
+Q10. PySpark Cache?
+     https://sparkbyexamples.com/pyspark/pyspark-cache-explained/
+
+Q11. Spark Executors?
+     https://sparkbyexamples.com/spark/what-is-spark-executor/
