@@ -31,3 +31,6 @@ Q10. PySpark Cache?
 
 Q11. Spark Executors?
      https://sparkbyexamples.com/spark/what-is-spark-executor/
+     https://stackoverflow.com/questions/24696777/what-is-the-relationship-between-workers-worker-instances-and-executors
+Q12. Map Partition with Index?
+     https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.RDD.mapPartitionsWithIndex.html
